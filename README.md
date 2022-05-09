@@ -5,11 +5,11 @@ AzerionAds SDK has been designed to give developers options for showing Ads from
 ## Automatic integration
 ### CocoaPods
 CocoaPods is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate AzerionAds into your Xcode project using CocoaPods, specify it in your Podfile:
-
+```
 pod 'AzerionAds'
-
+```
 To build AzerionAds on the simulator, please add this in your Podfile:
-
+```
 post_install do |installer|
      installer.pods_project.targets.each do |target|
          target.build_configurations.each do |config|
@@ -17,7 +17,7 @@ post_install do |installer|
          end
      end
  end
-
+```
 ## Manual integration
 Drag and drop the `AzerionAds.framework` and `AzerionAdsResources.bundle` file in your xcode project. Add `AzerionAds.framework` as a Embeded framework. If you want to show AdMob ads then you need to integrate AdMob frameworks also. You can do that either by adding the frameworks manually or by using cocoapods. You will found complete instructions of adding AdMob here:
 [AdMob integration in xcode project](https://developers.google.com/admob/ios/quick-start)
