@@ -74,11 +74,11 @@
 		</data>
 		<key>AzerionAdsResources.bundle/Info.plist</key>
 		<data>
-		UsoGdLP6CmcLBVH8WONUA8SCQdA=
+		LSexJIs4OT8towvGzxs8/qb7azY=
 		</data>
 		<key>AzerionAdsResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		pulr/rEVGMa8ZiY0PEGE0BaqAgQ=
+		jBDcCUHt0P6p7K8xPzVLH0yitbw=
 		</data>
 		<key>AzerionAdsResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>AzerionAdsResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		PqM+ExRcB4MqsFmxFWfFdsjBZUE=
+		9Mn0zBeucSTk1mzUee+HjtW4baY=
 		</data>
 		<key>AzerionAdsResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -178,7 +178,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		jeVloon3pahU5CjnGp6bs+9u+0c=
+		UyBG0wOkh8pmnegMpUGFNwKf5pQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -382,22 +382,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UsoGdLP6CmcLBVH8WONUA8SCQdA=
+			LSexJIs4OT8towvGzxs8/qb7azY=
 			</data>
 			<key>hash2</key>
 			<data>
-			XK8JMvRQLrxyEXeermZas68tbZGGPGvJ1EfcPoa/9P0=
+			Aq6LoB6ChH5Cp5FYOiaPMx01ZCL+9J25PNt2RxYpids=
 			</data>
 		</dict>
 		<key>AzerionAdsResources.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pulr/rEVGMa8ZiY0PEGE0BaqAgQ=
+			jBDcCUHt0P6p7K8xPzVLH0yitbw=
 			</data>
 			<key>hash2</key>
 			<data>
-			6Lg5FP0/GzPgCwiO6nQHTotOmGpFq+pLyO6jEH/spcY=
+			YaKeSYxZ6MLB3paHZSTQHuOQI+5V4+xGgaZgLVlbNmo=
 			</data>
 		</dict>
 		<key>AzerionAdsResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -415,11 +415,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PqM+ExRcB4MqsFmxFWfFdsjBZUE=
+			9Mn0zBeucSTk1mzUee+HjtW4baY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ca1/o7MougXcp5MPhJ/lJDcYL6veFODnGw8+mwXDyac=
+			w1jRlUZgQm4dHkatlmE16Xe8q2c0YfEUtlOfxh5gbSk=
 			</data>
 		</dict>
 		<key>AzerionAdsResources.bundle/_CodeSignature/CodeResources</key>
