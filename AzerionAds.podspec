@@ -11,7 +11,7 @@ s.source_files = 'AzerionAds.xcframework/*/*/Headers/*.{h}'
 s.resources = 'AzerionAds.xcframework/ios-arm64_armv7/*/*.{bundle}'
 s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-s.documentation_url = 'https://github.com/azerion/ad-sdk-ios-native/tree/release/v1.0.1/'
+s.documentation_url = 'https://github.com/azerion/ad-sdk-ios-native/'
 s.ios.deployment_target = '10.0'
 s.vendored_frameworks = 'AzerionAds.xcframework'
 s.dependency 'GoogleAds-IMA-iOS-SDK', '3.14.3'
