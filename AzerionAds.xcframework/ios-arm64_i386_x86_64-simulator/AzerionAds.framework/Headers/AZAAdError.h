@@ -29,6 +29,7 @@ NS_ASSUME_NONNULL_BEGIN
 + (AZAAdError *)noSDKConfigFound;
 + (AZAAdError *)nullAdUnitId;
 + (AZAAdError *)noAdapterFound;
++ (AZAAdError *)noAdSourceFound;
 + (AZAAdError *)noRootViewControllerFound;
 + (AZAAdError *)noConfigUrlFoundForApplicationId;
 

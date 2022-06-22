@@ -6,11 +6,11 @@
 	<dict>
 		<key>AzerionAdsResources.bundle/GDAAds.storyboardc/7r0-dE-Y7f-view-sR9-qJ-gzs.nib/objects-11.0+.nib</key>
 		<data>
-		WdISesb3e6wlQ4CHk3EgbyOP+sw=
+		0YGAs6IBYiQUnxC6Z2hELMdlDrw=
 		</data>
 		<key>AzerionAdsResources.bundle/GDAAds.storyboardc/7r0-dE-Y7f-view-sR9-qJ-gzs.nib/runtime.nib</key>
 		<data>
-		odpDW4w+TMem0JpbBJbayhXGlvQ=
+		/pFUJ/0bmi0XUyvzw+eIJbGn9ck=
 		</data>
 		<key>AzerionAdsResources.bundle/GDAAds.storyboardc/GDAInterstitialVastAdVCID.nib/objects-11.0+.nib</key>
 		<data>
@@ -50,35 +50,35 @@
 		</data>
 		<key>AzerionAdsResources.bundle/GDAAds.storyboardc/KtF-nF-dxQ-view-0Mk-fo-Xtv.nib/objects-11.0+.nib</key>
 		<data>
-		ueUwjcDt0RtCiKevB2BDJOgSZc0=
+		Ug1I5Vk8dXtTUtu1s2k2+NTcpwE=
 		</data>
 		<key>AzerionAdsResources.bundle/GDAAds.storyboardc/KtF-nF-dxQ-view-0Mk-fo-Xtv.nib/runtime.nib</key>
 		<data>
-		2IN3ES+AttppauPobk492vhLVL0=
+		1TdrF2B4IRbQr2YTR195xlSVUTs=
 		</data>
 		<key>AzerionAdsResources.bundle/GDAAds.storyboardc/WDR-xf-eHn-view-7se-PR-13c.nib/objects-11.0+.nib</key>
 		<data>
-		rm72UOi0+UsPzaqrnIBqy2qVkz4=
+		zyR4yasysPePn5vtUB8GgW5NUFY=
 		</data>
 		<key>AzerionAdsResources.bundle/GDAAds.storyboardc/WDR-xf-eHn-view-7se-PR-13c.nib/runtime.nib</key>
 		<data>
-		ZI5CHugNDrXOpA4h0OJkUvwLpmg=
+		XXaw/+8sCy3fv71lThSV1Q2WdnU=
 		</data>
 		<key>AzerionAdsResources.bundle/GDAAds.storyboardc/WPB-8C-pmc-view-nQM-3L-873.nib/objects-11.0+.nib</key>
 		<data>
-		jofsiCctYg4w9ts9fGMvyXm1w1k=
+		GvqC0rF75cHLOoOUgE/1yPMQRAg=
 		</data>
 		<key>AzerionAdsResources.bundle/GDAAds.storyboardc/WPB-8C-pmc-view-nQM-3L-873.nib/runtime.nib</key>
 		<data>
-		HGJOH1VIWWbQhgbGvncug28Jdg4=
+		V2UhxLVkwdu7Pf2gqihKClsu1jM=
 		</data>
 		<key>AzerionAdsResources.bundle/Info.plist</key>
 		<data>
-		LSexJIs4OT8towvGzxs8/qb7azY=
+		D/xxB72Pffl7jRT+53Xc0V2KnFU=
 		</data>
 		<key>AzerionAdsResources.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		jBDcCUHt0P6p7K8xPzVLH0yitbw=
+		jw9dlc9lnbKreUk6D8QBzRBb3KA=
 		</data>
 		<key>AzerionAdsResources.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>AzerionAdsResources.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		9Mn0zBeucSTk1mzUee+HjtW4baY=
+		Ad7xE9VL30JQRam2KZkrC/USAXc=
 		</data>
 		<key>AzerionAdsResources.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		ayVQSfgN5JcGamT1lHmBDc20Fck=
+		Nxma7yPdcydjxASzvaK4bRxjqa8=
 		</data>
 		<key>AzerionAdsResources.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Headers/AZAAdError.h</key>
 		<data>
-		0f/YnD++vkACqZVk/OZnY+n3ZNw=
+		4ybbrTl8Y77pYy9DrrcoXbAP8eA=
 		</data>
 		<key>Headers/AZAAdNetwork.h</key>
 		<data>
@@ -138,7 +138,7 @@
 		</data>
 		<key>Headers/AZABannerViewDelegate.h</key>
 		<data>
-		OahtEstf0/nTbFHuK5wrCOS77Xc=
+		naAK+TwAVR06T8oV/hYI7n01HWU=
 		</data>
 		<key>Headers/AZADeviceInfo.h</key>
 		<data>
@@ -150,7 +150,7 @@
 		</data>
 		<key>Headers/AZAInterstitialAd.h</key>
 		<data>
-		sXYwj6/9JjTVomrz5B9vRN2Foew=
+		GmmAdawYTIFepsId7x4mR5cp1oM=
 		</data>
 		<key>Headers/AZAInterstitialAdDelegate.h</key>
 		<data>
@@ -178,7 +178,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		UyBG0wOkh8pmnegMpUGFNwKf5pQ=
+		opoqISDjDeYv/E3HT70ubgAQRg4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -195,22 +195,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WdISesb3e6wlQ4CHk3EgbyOP+sw=
+			0YGAs6IBYiQUnxC6Z2hELMdlDrw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Tk72Mg2shrUJv3nczM/HvaFCntNfT5VJx2ZlVoOJrxk=
+			vC9Nz7cGUIMrNLNEJ0aOsG8+g4951CoF6XrzqqYFMs4=
 			</data>
 		</dict>
 		<key>AzerionAdsResources.bundle/GDAAds.storyboardc/7r0-dE-Y7f-view-sR9-qJ-gzs.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			odpDW4w+TMem0JpbBJbayhXGlvQ=
+			/pFUJ/0bmi0XUyvzw+eIJbGn9ck=
 			</data>
 			<key>hash2</key>
 			<data>
-			4ff/4EFK2XIJYr8tzTuRtuvZmLja7fQ8E2sc4QyoJwA=
+			H+JYm7HGrUVhei80Loji2MiJKsPBgInMI3+04rRoYSY=
 			</data>
 		</dict>
 		<key>AzerionAdsResources.bundle/GDAAds.storyboardc/GDAInterstitialVastAdVCID.nib/objects-11.0+.nib</key>
@@ -316,88 +316,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ueUwjcDt0RtCiKevB2BDJOgSZc0=
+			Ug1I5Vk8dXtTUtu1s2k2+NTcpwE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jz8V8bE+dEK4Iqby9BcyrHaNJUEHNF+wMgD3rruksV0=
+			itAHNnZJWgiJRguTQpRq8Qu/o6/VyZXasjg2L5y27PQ=
 			</data>
 		</dict>
 		<key>AzerionAdsResources.bundle/GDAAds.storyboardc/KtF-nF-dxQ-view-0Mk-fo-Xtv.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2IN3ES+AttppauPobk492vhLVL0=
+			1TdrF2B4IRbQr2YTR195xlSVUTs=
 			</data>
 			<key>hash2</key>
 			<data>
-			GKqGoL2bpI1VNimaJgQBG1MEEUOWpDQ7fI7zxCSJi9c=
+			mGc1HpwD1eDCvRP10hUqZaOxb1jrt9kuaMAcN2dTLEE=
 			</data>
 		</dict>
 		<key>AzerionAdsResources.bundle/GDAAds.storyboardc/WDR-xf-eHn-view-7se-PR-13c.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rm72UOi0+UsPzaqrnIBqy2qVkz4=
+			zyR4yasysPePn5vtUB8GgW5NUFY=
 			</data>
 			<key>hash2</key>
 			<data>
-			dRpHzrxnRjhHRPMIx/77S57lpGa+XtOFuRuuqw6IFbQ=
+			UjXxzyRT4cfpY4GZdCawGggS0QtcJH7ihHNokoKhgvw=
 			</data>
 		</dict>
 		<key>AzerionAdsResources.bundle/GDAAds.storyboardc/WDR-xf-eHn-view-7se-PR-13c.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZI5CHugNDrXOpA4h0OJkUvwLpmg=
+			XXaw/+8sCy3fv71lThSV1Q2WdnU=
 			</data>
 			<key>hash2</key>
 			<data>
-			5Da/ua+B1XlOY5QaeoeF96B2RkVa4gi3IlJs6h7bmwM=
+			ciOoiIFjcFF5woEKQibsDcV3vZarLJglptAKEAQeQWE=
 			</data>
 		</dict>
 		<key>AzerionAdsResources.bundle/GDAAds.storyboardc/WPB-8C-pmc-view-nQM-3L-873.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jofsiCctYg4w9ts9fGMvyXm1w1k=
+			GvqC0rF75cHLOoOUgE/1yPMQRAg=
 			</data>
 			<key>hash2</key>
 			<data>
-			muoC5NEV8xbUXqrgtuWRooP+v9Fo4Vx43uZGmW3jC6o=
+			iOZgIS+hX5wbOO3iGMz1sVKDuV+RRh86z33N0BGGJQE=
 			</data>
 		</dict>
 		<key>AzerionAdsResources.bundle/GDAAds.storyboardc/WPB-8C-pmc-view-nQM-3L-873.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HGJOH1VIWWbQhgbGvncug28Jdg4=
+			V2UhxLVkwdu7Pf2gqihKClsu1jM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Vn0S4j/Xa1vUiKNVPk6ZkhKV3I2lpgRHWVEJUlyvwTI=
+			ebGF+WqD+i4OqREtJCc13aMxfpnml9gb2mK5Ym2tjBA=
 			</data>
 		</dict>
 		<key>AzerionAdsResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LSexJIs4OT8towvGzxs8/qb7azY=
+			D/xxB72Pffl7jRT+53Xc0V2KnFU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Aq6LoB6ChH5Cp5FYOiaPMx01ZCL+9J25PNt2RxYpids=
+			SyMzVGeQUwzg/wVnZGMsrx+4OnfbRNknX6+i8Xi31HA=
 			</data>
 		</dict>
 		<key>AzerionAdsResources.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jBDcCUHt0P6p7K8xPzVLH0yitbw=
+			jw9dlc9lnbKreUk6D8QBzRBb3KA=
 			</data>
 			<key>hash2</key>
 			<data>
-			YaKeSYxZ6MLB3paHZSTQHuOQI+5V4+xGgaZgLVlbNmo=
+			0PXPGhLY8QMpLKErdacQRlMSDIFahEvYOlXbS7Lj1rM=
 			</data>
 		</dict>
 		<key>AzerionAdsResources.bundle/_CodeSignature/CodeRequirements</key>
@@ -415,22 +415,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9Mn0zBeucSTk1mzUee+HjtW4baY=
+			Ad7xE9VL30JQRam2KZkrC/USAXc=
 			</data>
 			<key>hash2</key>
 			<data>
-			w1jRlUZgQm4dHkatlmE16Xe8q2c0YfEUtlOfxh5gbSk=
+			uwr2rP+Gd1GMsmPE+RHHraB8/8aMgzhfbkZNKUv0l+A=
 			</data>
 		</dict>
 		<key>AzerionAdsResources.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ayVQSfgN5JcGamT1lHmBDc20Fck=
+			Nxma7yPdcydjxASzvaK4bRxjqa8=
 			</data>
 			<key>hash2</key>
 			<data>
-			ynB2LW1VevnhZjf25u+o1iDBBGTKLo4Ct5p3/fRZkH0=
+			gpjUMpN6MUStDVtx/PfnaDUPcsb20uUaBvWJksEvG0A=
 			</data>
 		</dict>
 		<key>AzerionAdsResources.bundle/_CodeSignature/CodeSignature</key>
@@ -503,11 +503,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0f/YnD++vkACqZVk/OZnY+n3ZNw=
+			4ybbrTl8Y77pYy9DrrcoXbAP8eA=
 			</data>
 			<key>hash2</key>
 			<data>
-			nEKbQa4IGYag/DljKRfKqE3pCWHqhENq5D2nJJZuDwQ=
+			C4F6GczGzKKQk03Qyqeij1u7wMEFQ0bqo68Z8TxX78I=
 			</data>
 		</dict>
 		<key>Headers/AZAAdNetwork.h</key>
@@ -558,11 +558,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OahtEstf0/nTbFHuK5wrCOS77Xc=
+			naAK+TwAVR06T8oV/hYI7n01HWU=
 			</data>
 			<key>hash2</key>
 			<data>
-			+ug/4uuOhlDZGQlJ1WI0EulQa2SX0azMc6BAphTfgW0=
+			VZr8s1iwmvPBdmQrQjRC+cnGT2RnIeN2RiJEiFasGCQ=
 			</data>
 		</dict>
 		<key>Headers/AZADeviceInfo.h</key>
@@ -591,11 +591,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sXYwj6/9JjTVomrz5B9vRN2Foew=
+			GmmAdawYTIFepsId7x4mR5cp1oM=
 			</data>
 			<key>hash2</key>
 			<data>
-			I/IogBZlW6NUqu1fOzlBzvUWLVYn02pstplU51ahfL8=
+			1eZS49ymvkgdBEHL5uSx/KLWgvsznZoC++H2JF5rkJc=
 			</data>
 		</dict>
 		<key>Headers/AZAInterstitialAdDelegate.h</key>

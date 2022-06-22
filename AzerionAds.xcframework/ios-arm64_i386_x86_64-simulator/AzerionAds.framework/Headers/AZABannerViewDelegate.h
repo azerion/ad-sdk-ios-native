@@ -14,10 +14,11 @@
 
 @protocol AZABannerViewDelegate <NSObject>
 
-- (void)bannerViewDidReceiveAd:(AZABannerView *)bannerView;
-- (void)bannerView:(AZABannerView *)bannerView didFailToReceiveAdWithError:(AZAAdError *)error;
-- (void)bannerViewDidRecordImpression:(AZABannerView *)bannerView;
-- (void)bannerViewDidLeftApplication:(AZABannerView *)bannerView ;
-- (void)didOpenedBannerView:(AZABannerView *)bannerView;
+-(void)onAdLoaded:(AZABannerView *)bannerView;
+-(void)onAdFailedToLoad:(AZABannerView *)bannerView withError:(AZAAdError *)error;
+-(void)onAdLeftApplication:(AZABannerView *)bannerView;
+-(void)onAdDisplayed:(AZABannerView *)bannerView;
+-(void)onAdFailedToDisplay:(AZABannerView *)bannerView withError:(AZAAdError *)error;
+-(void)onAdClosed:(AZABannerView *)bannerView;
 
 @end

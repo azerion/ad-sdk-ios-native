@@ -16,7 +16,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property (nonatomic, weak) id<AZAInterstitialAdDelegate> delegate;
 
-- (instancetype)initWithVideoAdUnitId:(nonnull NSString *)videoAdUnitId withStaticAdUnitId:(NSString *)staticAdUnitId;
+- (instancetype)initWithAdUnitId:(nonnull NSString *)adUnitId;
 
 - (void)loadAd;
 - (void)presentFromRootViewController:(nonnull UIViewController *)rootViewController;
