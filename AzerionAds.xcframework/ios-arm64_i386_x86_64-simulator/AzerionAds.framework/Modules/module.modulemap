@@ -1,6 +1,0 @@
-framework module AzerionAds {
-  umbrella header "AzerionAds.h"
-
-  export *
-  module * { export * }
-}

@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name = 'AzerionAds'
-s.version = '2.0.1'
+s.version = '2.0.2'
 s.license = 'MIT'
 s.summary = 'AzerionAds SDK has been designed to give developers options for showing Ads from ImproveDigital and AdMob.'
 s.homepage = 'https://github.com/azerion/ad-sdk-ios-native'
