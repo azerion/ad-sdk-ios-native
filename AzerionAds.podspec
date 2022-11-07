@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
 
 s.name = 'AzerionAds'
-s.version = '2.1.0'
+s.version = '2.0.3'
 s.license = 'MIT'
-s.summary = 'AzerionAds SDK has been designed to give developers options for showing Ads from different ad networks.'
+s.summary = 'AzerionAds SDK has been designed to give developers options for showing Ads from ImproveDigital and AdMob.'
 s.homepage = 'https://github.com/azerion/ad-sdk-ios-native'
 s.authors = { 'Azerion' => 'adsdk_techuser@azerion.com' }
 s.source = { :git => 'https://github.com/azerion/ad-sdk-ios-native.git', :tag => "v#{s.version}" }
@@ -14,6 +14,7 @@ s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 s.documentation_url = 'https://github.com/azerion/ad-sdk-ios-native/'
 s.ios.deployment_target = '10.0'
 s.vendored_frameworks = 'AzerionAds.xcframework'
-s.dependency 'AzerionAdsMediationCore', '1.0.0'
+s.dependency 'GoogleAds-IMA-iOS-SDK', '3.14.3'
+s.dependency 'Google-Mobile-Ads-SDK', '9.5.0'
 
 end
